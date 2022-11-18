@@ -75,8 +75,7 @@ hr {
 
 .twitter:hover {
     transition: 0.3s;
-    background-color: white;
-    color: rgb(102, 179, 255);
+    background-color: rgb(138, 195, 251);
 }
 
 .next {
@@ -86,14 +85,13 @@ hr {
     padding: 6px;
     margin-top: 3px;
     font-weight: bold;
-    color: black;
-    background-color: rgb(255, 255, 255);
+    color: rgb(255, 255, 255);
+    background-color: rgb(27, 165, 153);
     border-color: rgb(131, 131, 131);
 }
 
 .next:hover {
-    background-color: rgb(27, 165, 153);
-    color: rgb(255, 255, 255);
+    background-color: rgb(41, 197, 184);
     transition: 0.3s;
 }
 
